@@ -1,0 +1,16 @@
+
+/* -- Base -- */
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+/* -- Body Elements -- */
+
+body-header {
+	text-align:center;
+}
