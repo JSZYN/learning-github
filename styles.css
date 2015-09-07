@@ -2,6 +2,7 @@
 
 h1 {
 	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
 }
 
 body {
@@ -11,5 +12,5 @@ body {
 /* -- Body Elements -- */
 
 body-header {
-	text-align:center;
+	text-align: center;
 }
